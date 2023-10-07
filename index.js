@@ -35,9 +35,9 @@ restartBtn.addEventListener('click', () => {
     startTime = 0;
     elapsedTime = 0;
     currentTime = 0;
-    let hrs = 0;
-    let mins = 0;
-    let secs = 0;
+    hrs = 0;
+    mins = 0;
+    secs = 0;
 
     timeDisplay.textContent = "00:00:00";
 
